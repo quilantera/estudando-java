@@ -1,3 +1,5 @@
+package aula26_07;
+
 import java.util.Scanner;
 
 public class EstudoEstruturas {

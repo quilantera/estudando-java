@@ -1,3 +1,5 @@
+package aula26_07;
+
 public class EstudoVariaveis {
     //varável = conteiner de dados
     //tipagem forte = define o tipo de cada variável

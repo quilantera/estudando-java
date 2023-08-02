@@ -1,3 +1,5 @@
+package aula28_07;
+
 import java.util.Scanner;
 
 public class SaidaDeDados {

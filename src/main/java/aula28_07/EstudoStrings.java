@@ -1,3 +1,5 @@
+package aula28_07;
+
 public class EstudoStrings {
     public static void main(String[] args) {
         String java = "Java"; // Um texto é um objeto
